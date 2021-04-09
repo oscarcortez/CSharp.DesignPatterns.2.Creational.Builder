@@ -64,3 +64,5 @@ public class TurkeyClub : SandwichBuilder
 ```csharp
 Console.WriteLine(builder.SingleSandwich.Show()); 
 ```
+
+Resumen: ejecuta en un orden especifico un conjunto de sentencias que varian de acuerdo al objeto que se instancia
