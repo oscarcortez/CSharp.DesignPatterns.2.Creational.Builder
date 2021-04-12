@@ -1,6 +1,6 @@
 # CSharp.DesignPatterns.2.Creational.Builder
 
-1. Debe existir una clase ensambladora que ejecute los metodos del builder en un orden especifico: AssemblyLine
+1. Debe existir una clase director que ejecute los metodos del builder en un orden especifico: AssemblyLine
 ```csharp
 public void Assemble(SandwichBuilder sandwichBuilder)
 {
